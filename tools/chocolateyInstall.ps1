@@ -1,8 +1,8 @@
 $ErrorActionPreference = 'Stop'
 $packageName = 'amos'
-$version = '1.4.1'
+$version = '1.4.2'
 $url64 = "https://github.com/apodacaa/amos/releases/download/v$version/amos-windows-amd64.exe"
-$checksum64 = 'd37412c3c7b1137a14a495ca88b3043bd24d2c5a565ec9416e33c964db7d9bcc'
+$checksum64 = '78e894fa38a7c928adea5f2ae0b4fd3bf7b4359d863f12e7b77e1f3d2333df41'
 $checksumType64 = 'sha256'
 
 $packageArgs = @{
