@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>amos</id>
-    <version>1.7.0</version>
+    <version>1.7.1</version>
     <title>Amos</title>
     <authors>Anthony Apodaca</authors>
     <projectUrl>https://github.com/apodacaa/amos</projectUrl>
@@ -11,6 +11,6 @@
     <description>Minimal Bubble Tea (Go) TUI for journal + todo management with brutalist design. Amos provides a fast, keyboard-driven interface for managing daily notes and tasks with support for tags, filtering, and both standalone and entry-linked todos.</description>
     <summary>Brutalist TUI journal and todo manager</summary>
     <tags>tui journal todo bubbletea cli terminal notes productivity</tags>
-    <releaseNotes>https://github.com/apodacaa/amos/releases/tag/v1.7.0</releaseNotes>
+    <releaseNotes>https://github.com/apodacaa/amos/releases/tag/v1.7.1</releaseNotes>
   </metadata>
 </package>
